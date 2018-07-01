@@ -1,0 +1,29 @@
+/*
+
+Theme Name: The SEO
+Theme URI: http://seo.secretlab.pw
+Author: SecretLab
+Author URI: http://secretlab.pw
+Description: SEO & Digital Marketing Agency WordPress Theme
+Text Domain: the-seo
+Domain Path: /languages
+Version: 2.7
+License: Commercial
+License URI: http://themeforest.net/licenses/terms/regular
+
+*/
+
+.sticky {}
+
+.resized {
+width : 40%;
+height : 200px;
+float : left;
+}
+
+
+/* Don't PUT YOUR OWN CSS HERE.  *** Better use Theme Options -> Custom*/
+
+div#wpfooter {
+    display: none;
+}

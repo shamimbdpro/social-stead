@@ -1,0 +1,357 @@
+@font-face {
+  font-family: 'bgricon';
+  src:  url('fonts/bgricon3cf4.eot?hs5n4t');
+  src:  url('fonts/bgricon3cf4.eot?hs5n4t#iefix') format('embedded-opentype'),
+    url('fonts/bgricon3cf4.ttf?hs5n4t') format('truetype'),
+    url('fonts/bgricon3cf4.woff?hs5n4t') format('woff'),
+    url('fonts/bgricon3cf4.svg?hs5n4t#bgricon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ibgr-"]:before, [class*=" ibgr-"]:before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bgricon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ibgr-cirle_border:before {
+  content: "\e95f";
+}
+.ibgr-cirle_border_bold:before {
+  content: "\e960";
+}
+.ibgr-cirle_fill:before {
+  content: "\e961";
+}
+.ibgr-ellipse_border:before {
+  content: "\e962";
+}
+.ibgr-ellipse_border_bold:before {
+  content: "\e963";
+}
+.ibgr-ellipse_border_bold2:before {
+  content: "\e964";
+}
+.ibgr-ellipse_fill_hor:before {
+  content: "\e965";
+}
+.ibgr-ellipse_fill_vert:before {
+  content: "\e966";
+}
+.ibgr-star:before {
+  content: "\e967";
+}
+.ibgr-star_12:before {
+  content: "\e968";
+}
+.ibgr-star_border:before {
+  content: "\e969";
+}
+.ibgr-star_border_down:before {
+  content: "\e96a";
+}
+.ibgr-star_down:before {
+  content: "\e96b";
+}
+.ibgr-abstract2:before {
+  content: "\e96c";
+}
+.ibgr-abstract:before {
+  content: "\e96d";
+}
+.ibgr-T:before {
+  content: "\e918";
+}
+.ibgr-Td:before {
+  content: "\e91a";
+}
+.ibgr-TR:before {
+  content: "\e944";
+}
+.ibgr-TRd:before {
+  content: "\e945";
+}
+.ibgr-T2:before {
+  content: "\e946";
+}
+.ibgr-Td2:before {
+  content: "\e947";
+}
+.ibgr-TR2:before {
+  content: "\e948";
+}
+.ibgr-TRd2:before {
+  content: "\e949";
+}
+.ibgr-T3:before {
+  content: "\e94a";
+}
+.ibgr-Td3:before {
+  content: "\e94b";
+}
+.ibgr-TR3:before {
+  content: "\e94c";
+}
+.ibgr-TRd3:before {
+  content: "\e94d";
+}
+.ibgr-T4:before {
+  content: "\e94e";
+}
+.ibgr-Td4:before {
+  content: "\e94f";
+}
+.ibgr-TR4:before {
+  content: "\e950";
+}
+.ibgr-TRd4:before {
+  content: "\e951";
+}
+.ibgr-T5:before {
+  content: "\e952";
+}
+.ibgr-Td5:before {
+  content: "\e953";
+}
+.ibgr-TR5:before {
+  content: "\e954";
+}
+.ibgr-TRd5:before {
+  content: "\e955";
+}
+.ibgr-T6:before {
+  content: "\e956";
+}
+.ibgr-Td6:before {
+  content: "\e957";
+}
+.ibgr-TR6:before {
+  content: "\e958";
+}
+.ibgr-TRd6:before {
+  content: "\e959";
+}
+.ibgr-circle_double:before {
+  content: "\e95a";
+}
+.ibgr-circle_hex:before {
+  content: "\e95b";
+}
+.ibgr-circle_hex2:before {
+  content: "\e95c";
+}
+.ibgr-circle_square:before {
+  content: "\e95d";
+}
+.ibgr-circle_triangle:before {
+  content: "\e95e";
+}
+.ibgr-3:before {
+  content: "\e900";
+}
+.ibgr-d:before {
+  content: "\e901";
+}
+.ibgr-dR:before {
+  content: "\e902";
+}
+.ibgr-R:before {
+  content: "\e903";
+}
+.ibgr-s:before {
+  content: "\e904";
+}
+.ibgr-sd:before {
+  content: "\e905";
+}
+.ibgr-sdR:before {
+  content: "\e906";
+}
+.ibgr-sR:before {
+  content: "\e907";
+}
+.ibgr-4:before {
+  content: "\e908";
+}
+.ibgr-d2:before {
+  content: "\e909";
+}
+.ibgr-dR2:before {
+  content: "\e90a";
+}
+.ibgr-R2:before {
+  content: "\e90b";
+}
+.ibgr-s2:before {
+  content: "\e90c";
+}
+.ibgr-sd2:before {
+  content: "\e90d";
+}
+.ibgr-sdR2:before {
+  content: "\e90e";
+}
+.ibgr-sR2:before {
+  content: "\e90f";
+}
+.ibgr-5:before {
+  content: "\e910";
+}
+.ibgr-d3:before {
+  content: "\e911";
+}
+.ibgr-dR3:before {
+  content: "\e912";
+}
+.ibgr-dRm:before {
+  content: "\e913";
+}
+.ibgr-R3:before {
+  content: "\e914";
+}
+.ibgr-Rm:before {
+  content: "\e915";
+}
+.ibgr-s3:before {
+  content: "\e916";
+}
+.ibgr-sd3:before {
+  content: "\e917";
+}
+.ibgr-sdRm:before {
+  content: "\e919";
+}
+.ibgr-sRm:before {
+  content: "\e91b";
+}
+.ibgr-6:before {
+  content: "\e91c";
+}
+.ibgr-d4:before {
+  content: "\e91d";
+}
+.ibgr-dR4:before {
+  content: "\e91e";
+}
+.ibgr-R4:before {
+  content: "\e91f";
+}
+.ibgr-s4:before {
+  content: "\e920";
+}
+.ibgr-sd4:before {
+  content: "\e921";
+}
+.ibgr-sdR4:before {
+  content: "\e922";
+}
+.ibgr-sR4:before {
+  content: "\e923";
+}
+.ibgr-7:before {
+  content: "\e924";
+}
+.ibgr-d5:before {
+  content: "\e925";
+}
+.ibgr-dR5:before {
+  content: "\e926";
+}
+.ibgr-R5:before {
+  content: "\e927";
+}
+.ibgr-s5:before {
+  content: "\e928";
+}
+.ibgr-sd5:before {
+  content: "\e929";
+}
+.ibgr-sdR5:before {
+  content: "\e92a";
+}
+.ibgr-sR5:before {
+  content: "\e92b";
+}
+.ibgr-8:before {
+  content: "\e92c";
+}
+.ibgr-d6:before {
+  content: "\e92d";
+}
+.ibgr-dR6:before {
+  content: "\e92e";
+}
+.ibgr-R6:before {
+  content: "\e92f";
+}
+.ibgr-s6:before {
+  content: "\e930";
+}
+.ibgr-sd6:before {
+  content: "\e931";
+}
+.ibgr-sdR6:before {
+  content: "\e932";
+}
+.ibgr-sR6:before {
+  content: "\e933";
+}
+.ibgr-9:before {
+  content: "\e934";
+}
+.ibgr-d7:before {
+  content: "\e935";
+}
+.ibgr-dR7:before {
+  content: "\e936";
+}
+.ibgr-R7:before {
+  content: "\e937";
+}
+.ibgr-s7:before {
+  content: "\e938";
+}
+.ibgr-sd7:before {
+  content: "\e939";
+}
+.ibgr-sdR7:before {
+  content: "\e93a";
+}
+.ibgr-sR7:before {
+  content: "\e93b";
+}
+.ibgr-10:before {
+  content: "\e93c";
+}
+.ibgr-d8:before {
+  content: "\e93d";
+}
+.ibgr-dR8:before {
+  content: "\e93e";
+}
+.ibgr-R8:before {
+  content: "\e93f";
+}
+.ibgr-s8:before {
+  content: "\e940";
+}
+.ibgr-sd8:before {
+  content: "\e941";
+}
+.ibgr-sdR8:before {
+  content: "\e942";
+}
+.ibgr-sR8:before {
+  content: "\e943";
+}
+
